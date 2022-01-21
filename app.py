@@ -23,7 +23,7 @@ first_floor = st.number_input(
 )
 
 gr_liv = st.number_input(
-    label = "What is the total area of your first floor, in square feet?",
+    label = "What is the total area of your ground floor, in square feet?",
     min_value = 435,
     max_value = 2975,
     step = 5
